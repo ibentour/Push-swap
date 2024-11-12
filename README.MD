@@ -10,12 +10,6 @@ A highly efficient number sorting algorithm implementation in Go that sorts a st
 
 * #### Checker: A program that takes Push Swap's output and verifies whether the operations actually sort the stack correctly.
 
-- 🔄 Sorts integers using only two stacks (A & B)
-- ⚡ Optimized for different input sizes
-- ✅ Built-in operation validator
-- 🧪 Zero external dependencies
-- 💻 Pure Go implementation
-
 ### Allowed Operations
 
 - `sa` (swap a): Swap the first 2 elements at the top of stack A
@@ -32,11 +26,13 @@ A highly efficient number sorting algorithm implementation in Go that sorts a st
 
 ## 🚀 Features
 
-- Efficient sorting algorithm with optimization for different stack sizes
-- Input validation and error handling
-- Dynamic approach for larger datasets
-- Optimized sorting strategies for small sets (2-6 numbers)
-- Advanced sorting algorithm for larger sets using median and range-based approach
+- ⚡ Efficient sorting algorithm with optimization for different stack sizes
+- 🔄 Sorts integers using only two stacks (A & B)
+- 🔍 Input validation and error handling
+- 📊 Advanced sorting algorithm for larger sets using median and range-based approach
+- ✅ Built-in operation validator
+- 🧪 Zero external dependencies
+- 💻 Pure Go implementation
 
 ## 📋 Requirements
 
